@@ -1,0 +1,3 @@
+name : Rami //password : hassan// create date : Mon Jan 27 21:25:20 SAMT 2020//location : Gaza// salary : 2500.0//address : address1 // id_pres : 1
+name : ahmed //password : ahmed123// create date : Mon Jan 27 21:25:20 SAMT 2020//location : Khan Younes// salary : 2500.0//address : address2 // id_pres : 1
+name : Raed //password : hytham// create date : Mon Jan 27 21:25:20 SAMT 2020//location : Rafah// salary : 2500.0//address : address3 // id_pres : 1

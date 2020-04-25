@@ -1,0 +1,2 @@
+Transfer the amount : 100.0 //from :1000000// to : 2000000 //at time :Mon Jan 27 21:25:33 SAMT 2020
+The Withdrawed amount :120.0// Time of Withdraw :Mon Jan 27 21:25:40 SAMT 2020// total amount : 1980.0

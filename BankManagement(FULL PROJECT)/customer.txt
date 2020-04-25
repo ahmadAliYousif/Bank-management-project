@@ -1,0 +1,7 @@
+id: 1000000name : ahmed // password : a1// create aconut date : Mon Jan 27 21:25:20 SAMT 2020//location : Gaza+//address: Gaza-tal al hawa//phone : 0599999999//balance : 1200.0//isFreas : false// id_manger : 1000
+id: 1000001name : mohammed // password : m2// create aconut date : Mon Jan 27 21:25:20 SAMT 2020//location : Gaza+//address: Gaza-tal al genan//phone : 0599999999//balance : 1300.0//isFreas : false// id_manger : 1000
+id: 1000002name : saed // password : s3// create aconut date : Mon Jan 27 21:25:20 SAMT 2020//location : Gaza+//address: Gaza-ber salem//phone : 0599999999//balance : 12000.0//isFreas : false// id_manger : 1000
+id: 2000000name : raed // password : r4// create aconut date : Mon Jan 27 21:25:20 SAMT 2020//location : Khan Younes+//address: Khan Younes- qarara//phone : 0599999999//balance : 1300.0//isFreas : false// id_manger : 2000
+id: 2000001name : hassan // password : h5// create aconut date : Mon Jan 27 21:25:20 SAMT 2020//location : Khan Younes+//address: Khan Younes- balad//phone : 0599999999//balance : 1400.0//isFreas : false// id_manger : 2000
+id: 2000002name : hani // password : h6// create aconut date : Mon Jan 27 21:25:20 SAMT 2020//location : Khan Younes+//address: Khan Younes satra//phone : 0599999999//balance : 1400.0//isFreas : false// id_manger : 2000
+id: 3000000name : khalil // password : k7// create aconut date : Mon Jan 27 21:25:20 SAMT 2020//location : Rafah+//address: rafah_adana//phone : 0599999999//balance : 1100.0//isFreas : false// id_manger : 3000

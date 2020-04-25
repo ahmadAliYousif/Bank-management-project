@@ -1,0 +1,3 @@
+Receive the amount:  100.0  from : 1000000  to : 2000000at time :Mon Jan 27 21:25:33 SAMT 2020
+The deposited amount :1000.0// Time of deposit :Mon Jan 27 21:25:37 SAMT 2020// total amount : 2100.0
+The deposited amount :20.0// Time of deposit :Mon Jan 27 21:26:08 SAMT 2020// total amount : 1120.0
